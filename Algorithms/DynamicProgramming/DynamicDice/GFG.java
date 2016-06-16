@@ -3,8 +3,6 @@ Given n dice each with m faces, numbered from 1 to m, find the number of ways to
 X is the summation of values on each face when all the dice are thrown.
 */
 import java.util.Scanner;
-
-
 public class GFG {
 	public static void main(String arg[]){
 		Scanner Sc = new Scanner(System.in);
